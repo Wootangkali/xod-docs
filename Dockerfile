@@ -1,2 +1,2 @@
-FROM alpine:3.14.2
+FROM alpine:3.19.4
 ADD docs/ /opt/docs/
